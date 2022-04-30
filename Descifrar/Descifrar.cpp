@@ -13,7 +13,7 @@ int a1,b1;
 void p_datos()
 {
     string f_cifrada;
-    cout<<"----CIFRAR FRASE----"<<endl;
+    cout<<"----DESCIFRAR FRASE----"<<endl;
     
     cout<<"Dijite frase: ";getline(cin,f_cifrada);
     
